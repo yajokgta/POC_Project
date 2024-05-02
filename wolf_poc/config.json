@@ -1,4 +1,4 @@
 {
-    "apiUrl":"http://localhost:5083/",
-    "wolfApi":"https://api-qar2.wolfapprove.com/"
+    "apiUrl":"https://unique-poc.wolfapprove.com/openapi/",
+    "wolfApi":"https://unique-poc.wolfapprove.com/apir2/"
 }
